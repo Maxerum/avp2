@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\avp2\avp2\source.cpp(9): warning C4164: __rdtsc: подставляемая функция не объявлена
+c:\users\user\source\repos\avp2\avp2\source.cpp(186): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  avp2.vcxproj -> C:\Users\User\source\repos\avp2\Debug\avp2.exe
